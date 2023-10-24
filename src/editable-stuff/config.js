@@ -37,7 +37,7 @@ const about = {
   imageLink: require("../editable-stuff/profilepicscaled.jpg"),
   imageSize: 375,
   message:
-      "Hi! My name is Ryan Duong and I'm currently studying Computer Science and Biology at Northeastern University. I'm passionate about software engineering and how we can make the world better through technology.",
+      "Hi! My name is Ryan Duong and I'm a recent graduate from Northeastern University with a degree in Computer Science and Biology. I enjoy seeing my programs come to life as I develop them into visually pleasing, easy-to-use applications. I am seeking to broaden my technical knowledge by applying my in-class learning to an entry-level Software Development postion.",
   resume: "https://drive.google.com/file/d/1uB9Uw7AMduSuoIPkng9TJYEUikP_aTFN/view?usp=sharing",
 };
 
