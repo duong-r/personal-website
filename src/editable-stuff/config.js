@@ -38,7 +38,7 @@ const about = {
   imageSize: 375,
   message:
       "Hi! My name is Ryan Duong and I'm currently studying Computer Science and Biology at Northeastern University. I'm passionate about software engineering and how we can make the world better through technology.",
-  resume: "https://drive.google.com/file/d/1BhehXy7oR1OMkdueshQtIPncHeh3cXR6/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1uB9Uw7AMduSuoIPkng9TJYEUikP_aTFN/view?usp=sharing",
 };
 
 // Experience SECTION
@@ -70,7 +70,7 @@ const education = {
       school: 'Northeastern University',
       degree: 'Bachelor of Science in Computer Science and Biology',
       schoolLogo: require('../assets/images/northeastern.png'),
-      graduationDate: 'Expected Dec. 2023',
+      graduationDate: 'Sept. 2020 - May 2023',
     },
     {
       school: 'University of Massachusetts Lowell',

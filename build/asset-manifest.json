@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.939dd308.css",
-    "main.js": "/static/js/main.d661b2e9.js",
+    "main.js": "/static/js/main.9e1365ce.js",
     "static/media/profilepicscaled.jpg": "/static/media/profilepicscaled.b9dcc320ab851b84f015.jpg",
     "static/media/northeastern.png": "/static/media/northeastern.833153fbcc681f1d831c.png",
     "static/media/amazon.png": "/static/media/amazon.78eb5a32b997de941d3c.png",
     "static/media/uml.png": "/static/media/uml.92d3974740adb5fd164f.png",
     "index.html": "/index.html",
     "main.939dd308.css.map": "/static/css/main.939dd308.css.map",
-    "main.d661b2e9.js.map": "/static/js/main.d661b2e9.js.map"
+    "main.9e1365ce.js.map": "/static/js/main.9e1365ce.js.map"
   },
   "entrypoints": [
     "static/css/main.939dd308.css",
-    "static/js/main.d661b2e9.js"
+    "static/js/main.9e1365ce.js"
   ]
 }
