@@ -92,7 +92,7 @@ const repos = {
   heading: "Projects",
   gitHubUsername: "duong-r", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["c4chan", "personal-website"],
+  specificRepos: ["ImageProcessor", "personal-website"],
 };
 
 // Skills SECTION
