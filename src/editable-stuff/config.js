@@ -38,7 +38,7 @@ const about = {
   imageSize: 375,
   message:
       "Hi! My name is Ryan Duong and I'm a recent graduate from Northeastern University with a degree in Computer Science and Biology. I enjoy seeing my programs come to life as I develop them into visually pleasing, easy-to-use applications. I am seeking to broaden my technical knowledge by applying my in-class learning to an entry-level Software Development postion.",
-  resume: "https://drive.google.com/file/d/1uB9Uw7AMduSuoIPkng9TJYEUikP_aTFN/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1sHqLZO0exYPz0CabskbadVwTeYWnLSlo/view?usp=sharing",
 };
 
 // Experience SECTION
